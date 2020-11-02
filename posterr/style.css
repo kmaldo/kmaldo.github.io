@@ -1,0 +1,173 @@
+.background{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-image: url("pink.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+h1{
+ font-family: Trispace;
+ font-size: 18px;
+ line-height: 26px;
+}
+
+p{
+ font-family: Trispace;
+ font-size: 18px;
+ line-height: 26px;
+}
+
+.Tiltify{
+ font-family: Trispace;
+ font-size: 50px;
+ line-height: 26px;
+ position: absolute;
+ font-weight: 500;
+ top: 70px;
+ left: 240px;
+}
+
+.meet{
+ font-family: Trispace;
+ font-size: 18px;
+ line-height: 26px;
+ position: absolute;
+top: 310px;
+left: 505px;
+}
+
+.livestream{
+ font-family: Trispace;
+ font-size: 18px;
+ line-height: 26px;
+ position: absolute;
+ top: 360px;
+ left: 335px;
+}
+
+.beach{
+ font-family: Trispace;
+ font-size: 18px;
+ line-height: 26px;
+ position: absolute;
+ top: 360px;
+ left: 735px;
+}
+
+
+.greet{
+ font-family: Trispace;
+ font-size: 18px;
+ line-height: 26px;
+ position: absolute;
+ top: 310px;
+ left: 770px;
+}
+
+.donations{
+ font-family: Trispace;
+ font-size: 10px;
+ line-height: 26px;
+ position: absolute;
+ top: 420px;
+ left: 570px;
+}
+
+@media (max-width: 375px) {
+  
+.background{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-image: url("pink.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.Tiltify{
+ font-family: Trispace;
+ font-size: 50px;
+ line-height: 26px;
+ position: absolute;
+ font-weight: 500;
+ top: 70px;
+ left: 240px;
+}
+
+.meet{
+ font-family: Trispace;
+ font-size: 18px;
+ line-height: 26px;
+ position: absolute;
+top: 250px;
+left: 750px;
+}
+
+.livestream{
+ font-family: Trispace;
+ font-size: 18px;
+ line-height: 26px;
+ position: absolute;
+ top: 450px;
+ left: 750px;
+}
+
+.beach{
+ font-family: Trispace;
+ font-size: 18px;
+ line-height: 26px;
+ position: absolute;
+ top: 400px;
+ left: 750px;
+}
+
+.greet{
+ font-family: Trispace;
+ font-size: 18px;
+ line-height: 26px;
+ position: absolute;
+ top: 300px;
+ left: 750px;
+}
+
+.donations{
+ font-family: Trispace;
+ font-size: 10px;
+ line-height: 26px;
+ position: absolute;
+ top: 450px;
+ left: 400px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
