@@ -1,0 +1,178 @@
+.background{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-image: url("");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+p{
+	position: absolute;
+	font-family: monospace;
+	font-size: 10px
+	text-align: left;
+	top: 120px;
+	left: 10px;
+}
+
+img{
+	position: absolute;
+	top: 20px;
+	left: 1000px;
+
+
+}
+
+.header{
+	font-family: monospace;
+	font-size: 90px;
+	position:absolute;
+	top: 10px;
+	left: 280px;
+}
+
+
+.catch{
+	font-family: monospace;
+ 	font-size: 10px;
+ 	line-height: 26px;
+ 	position: absolute;
+ 	font-weight: 500;
+ 	top: 70px;
+ 	left: 0px;
+}
+
+.fire{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 300px;
+	left: 280px;
+}
+
+.normal{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 220px;
+	left: 280px;
+}
+
+.psychic{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 380px;
+	left: 280px;
+}
+
+.water{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 460px;
+	left: 280px;
+}
+
+.grass{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 540px;
+	left: 280px;
+}
+
+.electric{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 220px;
+	left: 620px;
+}
+
+
+.ice{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 300px;
+	left: 620px;
+}
+
+.fighting{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 380px;
+	left: 620px;
+}
+
+.poison{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 460px;
+	left: 620px;
+}
+ 
+.ground{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 540px;
+	left: 620px;
+}
+
+.flying{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 220px;
+	left: 960px;
+
+
+}
+
+.bug{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 300px;
+	left: 960px;
+
+
+}
+
+.rock{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 380px;
+	left: 960px;
+
+
+}
+
+.ghost{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 460px;
+	left: 960px;
+
+
+}
+
+.dragon{
+	font-family: monospace;
+	font-size: 40px;
+	position:absolute;
+	top: 540px;
+	left: 960px;
+
+
+}
