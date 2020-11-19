@@ -1,0 +1,66 @@
+
+.paragraph{
+	position: absolute;
+	font-family: monospace;
+	font-size: 10px;
+	top: 970px;
+	left: 350px;
+	width: 700px;
+}
+
+.header{
+	font-family: Modak;
+	font-size: 90px;
+	position:absolute;
+	top: 10px;
+	left: 420px;
+}
+
+.snorlax{
+	position: absolute;
+	top: 200px;
+	left: 30px;
+	width: 350px;
+}
+
+.meowth{
+	position: absolute;
+	top: 180px;
+	left: 370px;
+	width: 350px;
+}
+
+.eevee{
+	position: absolute;
+	top: 180px;
+	left: 730px;
+	width: 350px;
+}
+
+.chansey{
+	position: absolute;
+	top: 180px;
+	left: 1080px;
+	width: 350px;
+}
+
+.tauros{
+	position: absolute;
+	top: 550px;
+	left: 200px;
+	width: 350px;
+}
+
+.jigglypuff{
+	position: absolute;
+	top: 550px;
+	left: 560px;
+	width: 350px;
+}
+
+.furret{
+	position: absolute;
+	top: 550px;
+	left: 890px;
+	width: 350px;
+}

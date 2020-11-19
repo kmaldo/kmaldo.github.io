@@ -1,0 +1,82 @@
+.paragraph{
+	position: absolute;
+	font-family: monospace;
+	font-size: 10px;
+	top: 1000px;
+	left: 350px;
+	width: 700px;
+}
+
+
+.header{
+	font-family: Modak;
+	font-size: 90px;
+	position:absolute;
+	top: 10px;
+	left: 450px;
+}
+
+.dra{
+	position: absolute;
+	top: 270px;
+	left: 30px;
+	width: 300px;
+}
+
+.king{
+	position: absolute;
+	top: 270px;
+	left: 380px;
+	width: 300px;
+}
+
+.fly{
+	position: absolute;
+	top: 300px;
+	left: 750px;
+	width: 270px;
+}
+
+.ala{
+	position: absolute;
+	top: 250px;
+	left: 1100px;
+	width: 300px;
+}
+
+.sala{
+ 	position: absolute;
+	top: 580px;
+	left: 260px;
+	width: 250px;
+}
+
+.latias{
+	position: absolute;
+	top: 590px;
+	left: 610px;
+	width: 290px;
+}
+
+.raq{
+	position: absolute;
+	top: 570px;
+	left: 980px;
+	width: 290px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

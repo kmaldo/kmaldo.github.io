@@ -1,0 +1,79 @@
+.paragraph{
+	position: absolute;
+	font-family: monospace;
+	font-size: 10px;
+	top: 1000px;
+	left: 350px;
+	width: 700px;
+}
+
+.header{
+	font-family: Modak;
+	font-size: 90px;
+	position:absolute;
+	top: 10px;
+	left: 420px;
+}
+
+.pika{
+	position: absolute;
+	top: 210px;
+	left: 30px;
+	width: 350px;
+}
+
+.volt{
+	position: absolute;
+	top: 270px;
+	left: 435px;
+	width: 270px;
+}
+
+.elect{
+	position: absolute;
+	top: 260px;
+	left: 750px;
+	width: 300px;
+}
+
+.jolt{
+	position: absolute;
+	top: 210px;
+	left: 1080px;
+	width: 350px;
+}
+
+.mareep{
+ 	position: absolute;
+	top: 610px;
+	left: 250px;
+	width: 250px;
+}
+
+.mag{
+	position: absolute;
+	top: 580px;
+	left: 580px;
+	width: 320px;
+}
+
+.raikou{
+	position: absolute;
+	top: 590px;
+	left: 980px;
+	width: 280px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,73 @@
+.paragraph{
+	position: absolute;
+	font-family: monospace;
+	font-size: 10px;
+	top: 1000px;
+	left: 350px;
+	width: 700px;
+}
+
+.header{
+	font-family: Modak;
+	font-size: 90px;
+	position:absolute;
+	top: 10px;
+	left: 420px;
+}
+
+.garde{
+	position: absolute;
+	top: 200px;
+	left: 30px;
+	width: 350px;
+}
+
+.abra{
+	position: absolute;
+	top: 270px;
+	left: 360px;
+	width: 350px;
+}
+
+.drow{
+	position: absolute;
+	top: 180px;
+	left: 730px;
+	width: 350px;
+}
+
+.esp{
+	position: absolute;
+	top: 180px;
+	left: 1080px;
+	width: 350px;
+}
+
+.wob{
+ 	position: absolute;
+	top: 550px;
+	left: 150px;
+	width: 350px;
+}
+
+.uno{
+	position: absolute;
+	top: 550px;
+	left: 580px;
+	width: 350px;
+}
+
+.mewtwo{
+	position: absolute;
+	top: 550px;
+	left: 980px;
+	width: 350px;
+}
+
+
+
+
+
+
+
+

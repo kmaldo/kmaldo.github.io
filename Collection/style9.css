@@ -1,0 +1,85 @@
+.paragraph{
+	position: absolute;
+	font-family: monospace;
+	font-size: 10px;
+	top: 1000px;
+	left: 350px;
+	width: 700px;
+}
+
+
+.header{
+	font-family: Modak;
+	font-size: 90px;
+	position:absolute;
+	top: 10px;
+	left: 450px;
+}
+
+.hit{
+	position: absolute;
+	top: 240px;
+	left: 60px;
+	width: 320px;
+}
+
+.far{
+	position: absolute;
+	top: 270px;
+	left: 390px;
+	width: 270px;
+}
+
+.ty{
+	position: absolute;
+	top: 260px;
+	left: 750px;
+	width: 300px;
+}
+
+.maku{
+	position: absolute;
+	top: 230px;
+	left: 1080px;
+	width: 350px;
+}
+
+.mank{
+ 	position: absolute;
+	top: 580px;
+	left: 200px;
+	width: 350px;
+}
+
+.mach{
+	position: absolute;
+	top: 580px;
+	left: 580px;
+	width: 320px;
+}
+
+.hera{
+	position: absolute;
+	top: 590px;
+	left: 980px;
+	width: 320px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

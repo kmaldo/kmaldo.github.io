@@ -1,0 +1,86 @@
+.paragraph{
+	position: absolute;
+	font-family: monospace;
+	font-size: 10px;
+	top: 1000px;
+	left: 350px;
+	width: 700px;
+}
+
+
+
+.header{
+	font-family: Modak;
+	font-size: 90px;
+	position:absolute;
+	top: 10px;
+	left: 450px;
+}
+
+.sand{
+	position: absolute;
+	top: 240px;
+	left: 60px;
+	width: 320px;
+}
+
+.dig{
+	position: absolute;
+	top: 270px;
+	left: 420px;
+	width: 270px;
+}
+
+.cub{
+	position: absolute;
+	top: 250px;
+	left: 750px;
+	width: 300px;
+}
+
+.woop{
+	position: absolute;
+	top: 230px;
+	left: 1080px;
+	width: 350px;
+}
+
+.steel{
+ 	position: absolute;
+	top: 580px;
+	left: 200px;
+	width: 320px;
+}
+
+.phan{
+	position: absolute;
+	top: 580px;
+	left: 600px;
+	width: 290px;
+}
+
+.swin{
+	position: absolute;
+	top: 590px;
+	left: 980px;
+	width: 320px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

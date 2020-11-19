@@ -1,0 +1,89 @@
+.paragraph{
+	position: absolute;
+	font-family: monospace;
+	font-size: 10px;
+	top: 1000px;
+	left: 350px;
+	width: 700px;
+}
+
+
+.header{
+	font-family: Modak;
+	font-size: 90px;
+	position:absolute;
+	top: 10px;
+	left: 500px;
+}
+
+
+.vulpix{
+	position: absolute;
+	top: 200px;
+	left: 30px;
+	width: 350px;
+}
+
+.charmander{
+	position: absolute;
+	top: 180px;
+	left: 425px;
+	width: 310px;
+}
+
+.growl{
+	position: absolute;
+	top: 180px;
+	left: 730px;
+	width: 350px;
+}
+
+.pony{
+	position: absolute;
+	top: 180px;
+	left: 1080px;
+	width: 350px;
+}
+ .cynda{
+ 	position: absolute;
+	top: 550px;
+	left: 150px;
+	width: 350px;
+}
+
+.slug{
+	position: absolute;
+	top: 550px;
+	left: 580px;
+	width: 350px;
+}
+
+.entei{
+	position: absolute;
+	top: 550px;
+	left: 980px;
+	width: 350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

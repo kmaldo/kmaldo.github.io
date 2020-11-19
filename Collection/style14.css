@@ -1,0 +1,85 @@
+.paragraph{
+	position: absolute;
+	font-family: monospace;
+	font-size: 10px;
+	top: 1000px;
+	left: 350px;
+	width: 700px;
+}
+
+.header{
+	font-family: Modak;
+	font-size: 90px;
+	position:absolute;
+	top: 10px;
+	left: 450px;
+}
+
+.larv{
+	position: absolute;
+	top: 240px;
+	left: 30px;
+	width: 320px;
+}
+
+.ar{
+	position: absolute;
+	top: 290px;
+	left: 400px;
+	width: 220px;
+}
+
+.luna{
+	position: absolute;
+	top: 250px;
+	left: 750px;
+	width: 270px;
+}
+
+.arm{
+	position: absolute;
+	top: 230px;
+	left: 1100px;
+	width: 300px;
+}
+
+.reli{
+ 	position: absolute;
+	top: 580px;
+	left: 230px;
+	width: 250px;
+}
+
+.regi{
+	position: absolute;
+	top: 540px;
+	left: 570px;
+	width: 290px;
+}
+
+.cor{
+	position: absolute;
+	top: 540px;
+	left: 950px;
+	width: 290px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

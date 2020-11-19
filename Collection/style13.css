@@ -1,0 +1,81 @@
+.paragraph{
+	position: absolute;
+	font-family: monospace;
+	font-size: 10px;
+	top: 1000px;
+	left: 350px;
+	width: 700px;
+}
+
+.header{
+	font-family: Modak;
+	font-size: 90px;
+	position:absolute;
+	top: 10px;
+	left: 450px;
+}
+
+.butter{
+	position: absolute;
+	top: 240px;
+	left: 60px;
+	width: 320px;
+}
+
+.bee{
+	position: absolute;
+	top: 270px;
+	left: 420px;
+	width: 270px;
+}
+
+.scy{
+	position: absolute;
+	top: 250px;
+	left: 750px;
+	width: 300px;
+}
+
+.ledy{
+	position: absolute;
+	top: 230px;
+	left: 1080px;
+	width: 300px;
+}
+
+.spin{
+ 	position: absolute;
+	top: 580px;
+	left: 230px;
+	width: 250px;
+}
+
+.yan{
+	position: absolute;
+	top: 540px;
+	left: 570px;
+	width: 330px;
+}
+
+.sci{
+	position: absolute;
+	top: 540px;
+	left: 1000px;
+	width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

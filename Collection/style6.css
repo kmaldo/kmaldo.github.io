@@ -1,0 +1,72 @@
+.paragraph{
+	position: absolute;
+	font-family: monospace;
+	font-size: 10px;
+	top: 1000px;
+	left: 350px;
+	width: 700px;
+}
+
+.header{
+	font-family: Modak;
+	font-size: 90px;
+	position:absolute;
+	top: 10px;
+	left: 420px;
+}
+
+.tang{
+	position: absolute;
+	top: 250px;
+	left: 30px;
+	width: 350px;
+}
+
+.bulb{
+	position: absolute;
+	top: 270px;
+	left: 435px;
+	width: 320px;
+}
+
+.chik{
+	position: absolute;
+	top: 235px;
+	left: 780px;
+	width: 350px;
+}
+
+.bell{
+	position: absolute;
+	top: 250px;
+	left: 1080px;
+	width: 350px;
+}
+
+.sun{
+ 	position: absolute;
+	top: 610px;
+	left: 250px;
+	width: 250px;
+}
+
+.hoppip{
+	position: absolute;
+	top: 580px;
+	left: 580px;
+	width: 350px;
+}
+
+.bellsp{
+	position: absolute;
+	top: 610px;
+	left: 980px;
+	width: 300px;
+}
+
+
+
+
+
+
+

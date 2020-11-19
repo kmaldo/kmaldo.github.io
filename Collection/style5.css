@@ -1,0 +1,79 @@
+.paragraph{
+	position: absolute;
+	font-family: monospace;
+	font-size: 10px;
+	top: 1000px;
+	left: 350px;
+	width: 700px;
+}
+
+.header{
+	font-family: Modak;
+	font-size: 90px;
+	position:absolute;
+	top: 10px;
+	left: 420px;
+}
+
+
+.squirtle{
+	position: absolute;
+	top: 200px;
+	left: 30px;
+	width: 350px;
+}
+
+.shell{
+	position: absolute;
+	top: 270px;
+	left: 385px;
+	width: 320px;
+}
+
+.krab{
+	position: absolute;
+	top: 235px;
+	left: 730px;
+	width: 350px;
+}
+
+.staryu{
+	position: absolute;
+	top: 180px;
+	left: 1080px;
+	width: 350px;
+}
+
+.horsea{
+ 	position: absolute;
+	top: 580px;
+	left: 170px;
+	width: 350px;
+}
+
+.toto{
+	position: absolute;
+	top: 580px;
+	left: 580px;
+	width: 350px;
+}
+
+.rem{
+	position: absolute;
+	top: 580px;
+	left: 980px;
+	width: 350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
